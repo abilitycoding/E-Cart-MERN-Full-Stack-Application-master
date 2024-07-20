@@ -9,9 +9,14 @@ const {
   deleteProduct
 } = require("../controllers/productController");
 
-const { verifyToken, verifyRole } = require("../middleware/auth");
+const {
+  generateAuthTokens,
+  isAuthenticated,
+  verifyToken,
+  verifyRole
+} = require("../middleware/auth");
 
-router.get("/get", verifyToken, verifyRole(["admin"]), getProduct);
+router.get("/get", getProduct);
 router.post(
   "/get-product-category",
   verifyToken,

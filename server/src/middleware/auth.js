@@ -4,12 +4,14 @@ const UserModal = require("../models/userModal");
 const JWT_SECRET = process.env.JWT_SECRET;
 
 // Middleware to generate authentication tokens
-const generateAuthTokens = (req, res) => {
+const generateAuthTokens = (req, res, next) => {
   const user = req.user;
   const token = jwt.sign({ _id: user._id, role: user.userRole }, JWT_SECRET, {
     expiresIn: "24h"
   });
   res.status(200).json({ message: "Authenticated successfully", token });
+  req.user
+  next();
 };
 
 // Middleware to check if the user is authenticated

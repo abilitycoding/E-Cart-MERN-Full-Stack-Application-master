@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "6675503798a599d64a8a79a5"
+  },
+  "productName": "assus",
+  "productPrice": 45000,
+  "productDescription": "assus Aspire Lite 12th Gen Intel Core i3-1215U Premium Metal Laptop",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964279/adkwiee3csapiqv6grhv.jpg",
+  "productCategory": "laptop",
+  "productQuantity": 85,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675507d98a599d64a8a79aa"
+  },
+  "productName": "assus",
+  "productPrice": 35000,
+  "productDescription": "assus [Smartchoice] Aspire Lite AMD Ryzen 7 5700U Premium Thin and Light Laptop ",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964349/nnhy9rgxa7fjyzjd29zy.jpg",
+  "productCategory": "laptop",
+  "productQuantity": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675515098a599d64a8a79b2"
+  },
+  "productName": "assus",
+  "productPrice": 85000,
+  "productDescription": "ASUS TUF F15 Gaming Laptop, Intel Core i5-11400H 11th Gen, 15.6-inch (39.62 cm) FHD",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964561/hjvmfarcf4z9x073iocg.jpg",
+  "productCategory": "laptop",
+  "productQuantity": 28,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667551a398a599d64a8a79b5"
+  },
+  "productName": "hp",
+  "productPrice": 54000,
+  "productDescription": "HP Laptop 15s, 12th Gen Intel Core i5-1235U, 15.6-inch (39.6 cm), FHD, 16GB DDR4,",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964644/xmq1lyuwvevlrkj28gnj.webp",
+  "productCategory": "laptop",
+  "productQuantity": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667551e698a599d64a8a79b8"
+  },
+  "productName": "hp",
+  "productPrice": 54000,
+  "productDescription": "HP Pavilion x360 2-in-1 Laptop 13th Gen Intel Core i5-1335U, 14-inch (39.6 cm) FHD,Multitouch",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964710/u5djcsna8tsjfnxpihic.jpg",
+  "productCategory": "laptop",
+  "productQuantity": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675520f98a599d64a8a79bb"
+  },
+  "productName": "hp",
+  "productPrice": 58001,
+  "productDescription": "HP Laptop 15s, AMD Ryzen 3 5300U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964752/o6pft0hvadkrtps9vbxe.webp",
+  "productCategory": "laptop",
+  "productQuantity": 94,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675527398a599d64a8a79be"
+  },
+  "productName": "redmi",
+  "productPrice": 8000,
+  "productDescription": "Redmi 13C (Starshine Green, 4GB RAM, 128GB Storage) | Powered by 4G MediaTek",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964852/ppd1wtinbazmrvlbgrii.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 64,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667552dd98a599d64a8a79c1"
+  },
+  "productName": "redmi",
+  "productPrice": 15000,
+  "productDescription": "Redmi 12 5G Jade Black 6GB RAM 128GB ROM",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718964958/hqhythiwbfvydouvsknb.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 15,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675531898a599d64a8a79c4"
+  },
+  "productName": "redmi",
+  "productPrice": 18000,
+  "productDescription": "Redmi 13C (Stardust Black, 6GB RAM, 128GB Storage) | Powered by 4G",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718965016/x1mbu16yltgrnw8y0ota.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 35,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675536198a599d64a8a79c7"
+  },
+  "productName": "apple",
+  "productPrice": 177990,
+  "productDescription": "Apple iPhone 15 Pro (1 TB) - White Titanium",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718965090/awwlwgwgbm2yvjfz3bwo.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 11,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675554398a599d64a8a79ca"
+  },
+  "productName": "apple",
+  "productPrice": 48799,
+  "productDescription": "Apple iPhone 13 (128GB) - Blue",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718965572/fpiwkcj5hvl7dipid1nu.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 50,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6675557b98a599d64a8a79cd"
+  },
+  "productName": "apple",
+  "productPrice": 81999,
+  "productDescription": "Apple iPhone 15 Plus (128 GB) - Black",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1718965628/ro9084uewtezbo7ujucf.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 16,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d2a5fe4074eed62221a72"
+  },
+  "productName": "MSI Modern 14",
+  "productPrice": 50000,
+  "productDescription": "MSI Modern 14, Intel 13th Gen. i5-1335U, 36CM FHD 60Hz Laptop (16GB/512GB NVMe SSD/Windows 11",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1719478878/wvzkuongsybhdmbj5mnf.jpg",
+  "productCategory": "laptop",
+  "productQuantity": 3,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b5c6604a98c4c42397972"
+  },
+  "productName": "POCO M6 Pro 5G",
+  "productPrice": 10000,
+  "productDescription": "POCO M6 Pro 5G (128 GB) (6 GB RAM) (Power Black)",
+  "productImage": "https://res.cloudinary.com/dhc18npny/image/upload/v1721457766/y4vcrfynehhhclnap0iv.jpg",
+  "productCategory": "mobile",
+  "productQuantity": 50,
+  "__v": 0
+}]
